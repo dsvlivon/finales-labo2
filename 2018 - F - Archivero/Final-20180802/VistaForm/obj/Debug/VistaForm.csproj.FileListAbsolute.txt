@@ -1,0 +1,35 @@
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.Form1.resources
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\Entidades.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\VistaForm\obj\Debug\VistaForm.pdb

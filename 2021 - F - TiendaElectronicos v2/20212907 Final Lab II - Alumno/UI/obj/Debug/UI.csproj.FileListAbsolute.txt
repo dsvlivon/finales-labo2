@@ -1,0 +1,43 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos\20212907 Final Lab II - Alumno\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos\20212907 Final Lab II - Alumno\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos\20212907 Final Lab II - Alumno\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.Visual.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos\20212907 Final Lab II - Alumno\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.Visual.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\bin\Debug\UI.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\bin\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\bin\Debug\UI.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\UI\obj\Debug\UI.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.Visual.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\bin\Debug\UI.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.Visual.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\UI\obj\Debug\UI.pdb

@@ -1,0 +1,16 @@
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\bin\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\bin\Debug\Entidades.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\bin\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2018 - F - Archivero\Final-20180802\Entidades\obj\Debug\Entidades.pdb

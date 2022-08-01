@@ -1,0 +1,17 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Entidades\obj\Debug\Entidades.pdb

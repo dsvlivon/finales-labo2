@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+-<Producto xsi:type="Celular">
+		<Modelo>S21</Modelo>
+		<Precio>100000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>-<Producto xsi:type="Celular">
+		<Modelo>S21</Modelo>
+		<Precio>100000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>-<Producto xsi:type="Celular">
+		<Modelo>S21</Modelo>
+		<Precio>100000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>-<Producto xsi:type="Celular">
+		<Modelo>S21</Modelo>
+		<Precio>100000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>-<Producto xsi:type="Celular">
+		<Modelo>S21</Modelo>
+		<Precio>100000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>
+	-<Producto xsi:type="Celular">
+		<Modelo>MotoE</Modelo>
+		<Precio>38000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>8</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>
+	-<Producto xsi:type="Celular">
+		<Modelo>E6I</Modelo>
+		<Precio>1800</Precio>
+		<Marca>Motorola</Marca>
+		<MegaPixelesCamara>8</MegaPixelesCamara>
+		<EnOferta>true</EnOferta>
+	</Producto>
+	-<Producto xsi:type="Celular">
+		<Modelo>G30</Modelo>
+		<Precio>34000</Precio>
+		<Marca>Motorola</Marca>
+		<MegaPixelesCamara>16</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>
+	-<Producto xsi:type="Celular">
+		<Modelo>A51</Modelo>
+		<Precio>48000</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>20</MegaPixelesCamara>
+		<EnOferta>true</EnOferta>
+	</Producto>
+	-<Producto xsi:type="Celular">
+		<Modelo>G9</Modelo>
+		<Precio>43000</Precio>
+		<Marca>Motorola</Marca>
+		<MegaPixelesCamara>12</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>
+	<Producto xsi:type="Celular">
+		<Modelo>A21s</Modelo>
+		<Precio>38999</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>12</MegaPixelesCamara>
+		<EnOferta>true</EnOferta>
+	</Producto>
+	<Producto xsi:type="Celular">
+		<Modelo>K51s</Modelo>
+		<Precio>27999</Precio>
+		<Marca>LG</Marca>
+		<MegaPixelesCamara>8</MegaPixelesCamara>
+		<EnOferta>true</EnOferta>
+	</Producto>
+	<Producto xsi:type="Celular">
+		<Modelo>K51s</Modelo>
+		<Precio>72999</Precio>
+		<Marca>Samsung</Marca>
+		<MegaPixelesCamara>26</MegaPixelesCamara>
+		<EnOferta>false</EnOferta>
+	</Producto>
+</ArrayOfProducto>

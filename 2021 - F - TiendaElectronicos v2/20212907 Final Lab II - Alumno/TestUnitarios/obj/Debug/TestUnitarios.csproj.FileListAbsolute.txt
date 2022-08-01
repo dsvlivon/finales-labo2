@@ -1,0 +1,32 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\obj\Debug\TestUnitarios.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\TestUnitarios\obj\Debug\TestUnitarios.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\obj\Debug\TestUnitarios.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\TestUnitarios\obj\Debug\TestUnitarios.pdb

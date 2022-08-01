@@ -1,0 +1,30 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\bin\Debug\Consola.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\bin\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\bin\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\obj\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\obj\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\v2\prueba 1\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2 - Copy\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\bin\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2021 - F - TiendaElectronicos v2\20212907 Final Lab II - Alumno\Consola\obj\Debug\Consola.pdb

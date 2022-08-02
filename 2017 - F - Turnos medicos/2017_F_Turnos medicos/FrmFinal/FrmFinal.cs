@@ -61,8 +61,7 @@ namespace FrmFinal
         {
             if (this.pacientesEnEspera.Count() > 0)
             {
-                //MessageBox.Show("especialista");
-                Paciente p = this.pacientesEnEspera.Peek(); Console.WriteLine("paciente: "+p.ToString());
+                Paciente p = this.pacientesEnEspera.Peek(); 
                 medicoEspecialista.IniciarAtencion(p);
                 MessageBox.Show("El Dr. "+ medicoEspecialista.Apellido + " esta atendiendo a " + medicoEspecialista.EstaAtendiendoA);
             }
@@ -72,8 +71,8 @@ namespace FrmFinal
         {
             if (this.pacientesEnEspera.Count() > 0)
             {
-                MessageBox.Show("general");
                 medicoGeneral.IniciarAtencion(this.pacientesEnEspera.Peek());
+                MessageBox.Show("El Dr. " + medicoGeneral.Apellido + " esta atendiendo a " + medicoGeneral.EstaAtendiendoA);
             }
         }
 

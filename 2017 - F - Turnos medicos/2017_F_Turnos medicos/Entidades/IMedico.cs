@@ -8,5 +8,6 @@ namespace Entidades
 {
     public interface IMedico
     {
+        void IniciarAtencion(Paciente p);
     }
 }

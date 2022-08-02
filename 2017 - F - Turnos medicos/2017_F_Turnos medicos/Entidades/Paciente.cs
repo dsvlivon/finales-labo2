@@ -14,27 +14,30 @@ namespace Entidades
      4-ToString() retornará los datos del paciente con el siguiente formato "Turno Nº{0}: {2}, {1}", siendo los valores número de turno, apellido y nombre respectivamente.
      */
     #endregion
-    class Paciente :Persona
+    public class Paciente :Persona
     {
         private int turno;
-        private int ultimoTurno; //de clase es statico?
+        private static int ultimoTurno; //de clase es statico?
 
-        public int Turno { get; }
+        public int Turno { get { return this.turno; } }
 
-        private Paciente() { this.ultimoTurno = 0; }
-
-        public Paciente(string a, string n): base(n, a) {
-            this.ultimoTurno++;
-            this.turno = ultimoTurno;
-        }
+        static Paciente() { ultimoTurno = 0; }
         public Paciente(string a, string n, int turno) : base(n, a) { 
             this.turno = turno;
-            this.ultimoTurno = turno;
+            ultimoTurno = this.turno;
+        }
+
+        public Paciente(string a, string n): base(n, a) {
+            ultimoTurno++;
+            this.turno = ultimoTurno;
         }
 
         public override string ToString()
         {
-            return String.Format("Turno Nº{0}: {2}, {1}", this.Turno, this. apellido, this.nombre);
+            return String.Format("Turno Nº{0}: {1}, {2}", this.Turno, this.Apellido, this.Nombre);
         }
+
+        public string Nombre { get { return this.nombre; } }
+        public string Apellido { get { return this.apellido; } }
     }
 }

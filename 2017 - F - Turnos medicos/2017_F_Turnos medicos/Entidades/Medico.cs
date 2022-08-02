@@ -6,24 +6,38 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    public delegate void FinAtencionPaciente();
     public abstract class Medico:Persona
     {
+        public event FinAtencionPaciente AtencionFinalizada;
         private Paciente pacienteActual;
-        protected Random tiempoAleatorio;
+        protected static Random tiempoAleatorio;
 
-        private Paciente AtenderA { set
-            { this.pacienteActual = value;  } }
-        public string EstaAtendiendoA { get; }
+        public Paciente PacienteActual { set { this.pacienteActual = value; } }
 
-        protected void Atender() { }
-        protected void FinalizarAtencion() { }
-        private Medico()
+        public virtual string EstaAtendiendoA
         {
-
+            get
+            {
+                if (this.pacienteActual != null)
+                {
+                    return this.pacienteActual.ToString();
+                }
+                else { return "Sin pacientes asignados"; }
+            }
         }
-        public Medico(string n, string a): base(n,a)
+
+        protected abstract void Atender();
+        protected void FinalizarAtencion() {
+            AtencionFinalizada?.Invoke();//es suficiente
+            this.PacienteActual = null;
+        }
+        public Medico(string n, string a): base(n,a) { }
+        static Medico()
         {
-
+            tiempoAleatorio = new Random();
         }
+        public string Nombre { get { return this.nombre; } }
+        public string Apellido { get { return this.apellido; } }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.FrmFinal.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\bin\Debug\FrmFinal.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\bin\Debug\FrmFinal.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\bin\Debug\FrmFinal.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.csproj.CopyComplete
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\FrmFinal\obj\Debug\FrmFinal.pdb

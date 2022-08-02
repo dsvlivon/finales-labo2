@@ -1,0 +1,6 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2017 - F - Turnos medicos\2017_F_Turnos medicos\Entidades\obj\Debug\Entidades.pdb

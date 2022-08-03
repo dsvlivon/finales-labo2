@@ -1,0 +1,6 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\obj\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Entidades\obj\Debug\Entidades.pdb

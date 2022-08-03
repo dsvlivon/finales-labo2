@@ -14,8 +14,10 @@ namespace Entidades
 
         protected override void Atender()
         {
-            Console.WriteLine("Atender!");
-            Thread.Sleep(Medico.tiempoAleatorio.Next(5000, 10000));
+            //int noni = (Medico.tiempoAleatorio.Next(5000, 10000));
+            int noni = (Medico.tiempoAleatorio.Next(1500, 2000));
+            Console.WriteLine("Atender - tiempo de espera: "+noni);
+            Thread.Sleep(noni);
             this.FinalizarAtencion();
         }
 
@@ -24,6 +26,7 @@ namespace Entidades
             Thread hilo = new Thread(Atender);
             hilo.Start();
             this.PacienteActual = p;
+            Console.WriteLine("Iniciando atencion\n");
         }
 
         public MEspecialista(string n, string a, Especialidad e):base(n,a)

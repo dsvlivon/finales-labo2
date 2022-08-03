@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     public delegate void FinAtencionPaciente();
+    //public delegate void FinAtencionPaciente(Paciente p, Medico m);
     public abstract class Medico:Persona
     {
-        public event FinAtencionPaciente AtencionFinalizada;
+        public static event FinAtencionPaciente AtencionFinalizada;
         private Paciente pacienteActual;
         protected static Random tiempoAleatorio;
 
@@ -29,7 +30,8 @@ namespace Entidades
 
         protected abstract void Atender();
         protected void FinalizarAtencion() {
-            AtencionFinalizada?.Invoke();//es suficiente
+            
+            AtencionFinalizada()?.Invoke(this,this.pacienteActual);
             this.PacienteActual = null;
         }
         public Medico(string n, string a): base(n,a) { }

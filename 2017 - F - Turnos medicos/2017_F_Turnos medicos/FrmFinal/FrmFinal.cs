@@ -38,7 +38,7 @@ namespace FrmFinal
         }
         private void FrmFinal_Load(object sender, FormClosingEventArgs e)
         {
-            mocker.Start();
+            //mocker.Start();
         }
         private void FrmFinal_FormClosing(object sender, FormClosingEventArgs e) {
             if (this.mocker.IsAlive) { this.mocker.Abort(); }
@@ -61,9 +61,11 @@ namespace FrmFinal
         {
             if (this.pacientesEnEspera.Count() > 0)
             {
-                Paciente p = this.pacientesEnEspera.Peek(); 
+                Paciente p = this.pacientesEnEspera.Dequeue();
                 medicoEspecialista.IniciarAtencion(p);
                 MessageBox.Show("El Dr. "+ medicoEspecialista.Apellido + " esta atendiendo a " + medicoEspecialista.EstaAtendiendoA);
+                Medico m = medicoEspecialista;
+                //Medico.AtencionFinalizada += FinAtencion;
             }
         }
 
@@ -76,8 +78,9 @@ namespace FrmFinal
             }
         }
 
-        private void FinAtencion(Paciente p, Medico m) {
-            MessageBox.Show(String.Format("Finalizó la atención de {0} por {1}!",p.Nombre+" "+p.Apellido, "Dr. "+m.Nombre+" "+m.Apellido));
+        private void FinAtencion() {
+            MessageBox.Show(String.Format("Finalizó la atención de {0} por {1}!",medicoEspecialista.EstaAtendiendoA, "Dr. "+medicoEspecialista.Nombre+" "+medicoEspecialista.Apellido));
+            
         }
     }
 }

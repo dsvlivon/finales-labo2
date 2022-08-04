@@ -1,0 +1,13 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\bin\Debug\miForm.exe.config
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\bin\Debug\miForm.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\bin\Debug\miForm.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.Form1.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.Properties.Resources.resources
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.csproj.GenerateResource.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.exe
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\bin\Debug\ClassLibrary1.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\bin\Debug\ClassLibrary1.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\eventos\ClassLibrary1\miForm\obj\Debug\miForm.csproj.CopyComplete

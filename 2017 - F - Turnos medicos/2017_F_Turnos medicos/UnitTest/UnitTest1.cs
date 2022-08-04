@@ -16,7 +16,7 @@ namespace UnitTest
             Console.WriteLine("Turno p2:" + p2.Turno);
             Paciente p3 = new Paciente("Nombre", "Apellido");
             Console.WriteLine("Turno p3:" + p3.Turno);
-            //p3.Turno = 1
+            
             Assert.AreEqual(6, p3.Turno);
         }
     }

@@ -25,7 +25,7 @@ namespace FrmFinal
         private MGeneral medicoGeneral;
         private Thread mocker;
         private Queue<Paciente> pacientesEnEspera;
-        int con = 0;
+        
         public FrmFinal()
         {
             InitializeComponent();
@@ -34,27 +34,27 @@ namespace FrmFinal
             this.pacientesEnEspera = new Queue<Paciente>();
             this.mocker = new Thread(MockPacientes);
             
-            mocker.Start();
-        }
-        private void FrmFinal_Load(object sender, FormClosingEventArgs e)
-        {
             //mocker.Start();
         }
+        
         private void FrmFinal_FormClosing(object sender, FormClosingEventArgs e) {
             if (this.mocker.IsAlive) { this.mocker.Abort(); }
         }
         private void MockPacientes()
-        {
+        { //hacer un bucle
             Paciente p1 = new Paciente("juan", "baez",4);
             Paciente p2 = new Paciente("pepe", "perez",5);
             Paciente p3 = new Paciente("lola", "garcia",6);
             Paciente p4 = new Paciente("viki", "lopez",7);
-
-            if (con == 0) { this.pacientesEnEspera.Enqueue(p1); con++; }
-            if (con == 1) { this.pacientesEnEspera.Enqueue(p2); con++; }
-            if (con == 2) { this.pacientesEnEspera.Enqueue(p3); con++; }
-            if (con == 3) { this.pacientesEnEspera.Enqueue(p4); con++; }
-            MessageBox.Show("Iniciando.... \n\nPacientes en espera: "+this.pacientesEnEspera.Count().ToString());
+            List<Paciente> l = new List<Paciente>();
+            l.Add(p1); l.Add(p2); l.Add(p3); l.Add(p4); l.Add(p1);//5
+            foreach (var item in l)
+            {
+                this.pacientesEnEspera.Enqueue(item);
+                //Thread.Sleep(5000);
+                MessageBox.Show("Iniciando.... \n\nPacientes en espera: "+this.pacientesEnEspera.Count().ToString());
+                Thread.Sleep(5000);
+            }
         }    
 
         private void btnEspecialista_Click(object sender, EventArgs e)
@@ -63,9 +63,8 @@ namespace FrmFinal
             {
                 Paciente p = this.pacientesEnEspera.Dequeue();
                 medicoEspecialista.IniciarAtencion(p);
-                MessageBox.Show("El Dr. "+ medicoEspecialista.Apellido + " esta atendiendo a " + medicoEspecialista.EstaAtendiendoA);
-                Medico m = medicoEspecialista;
-                //Medico.AtencionFinalizada += FinAtencion;
+                MessageBox.Show("El Dr. "+ medicoEspecialista.Apellido + " esta atendiendo a " + medicoEspecialista.EstaAtendiendoA);                
+                //eventoespecialista();
             }
         }
 
@@ -73,14 +72,22 @@ namespace FrmFinal
         {
             if (this.pacientesEnEspera.Count() > 0)
             {
-                medicoGeneral.IniciarAtencion(this.pacientesEnEspera.Peek());
+                medicoGeneral.IniciarAtencion(this.pacientesEnEspera.Dequeue());
                 MessageBox.Show("El Dr. " + medicoGeneral.Apellido + " esta atendiendo a " + medicoGeneral.EstaAtendiendoA);
+                //eventogeneral();
             }
         }
 
         private void FinAtencion() {
-            MessageBox.Show(String.Format("Finalizó la atención de {0} por {1}!",medicoEspecialista.EstaAtendiendoA, "Dr. "+medicoEspecialista.Nombre+" "+medicoEspecialista.Apellido));
-            
+            //MessageBox.Show("???");
+            MessageBox.Show(String.Format("Finalizó la atención de {0} por {1}!",medicoEspecialista.EstaAtendiendoA, "Dr. "+medicoEspecialista.Apellido));
+        }
+
+        private void FrmFinal_Load(object sender, EventArgs e)
+        {
+            medicoEspecialista.AtencionFinalizada += FinAtencion;
+            medicoGeneral.AtencionFinalizada += FinAtencion;
+            mocker.Start();//inicilizar un hilo es .start()
         }
     }
 }

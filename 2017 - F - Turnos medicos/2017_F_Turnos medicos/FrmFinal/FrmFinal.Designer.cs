@@ -67,6 +67,7 @@ namespace FrmFinal
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmFinal";
             this.Text = "Final Practica ";
+            this.Load += new System.EventHandler(this.FrmFinal_Load);
             this.ResumeLayout(false);
 
         }

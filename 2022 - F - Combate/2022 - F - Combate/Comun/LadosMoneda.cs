@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entidades
+namespace Comun
 {
     public enum LadosMoneda
     {
-        cara=1, ceca=2
+        Cara=1,Ceca=2
     }
 }

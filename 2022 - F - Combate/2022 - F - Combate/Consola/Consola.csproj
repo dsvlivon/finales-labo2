@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9562FE4E-AB62-451D-B2A0-2165BE64236A}</ProjectGuid>
+    <ProjectGuid>{D6DB0A7E-D988-4C47-8DAA-4DC801B88A44}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Consola</RootNamespace>
     <AssemblyName>Consola</AssemblyName>
@@ -50,8 +50,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Comun\Comun.csproj">
+      <Project>{37816374-29f8-4083-94d1-b9b58f999a41}</Project>
+      <Name>Comun</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{884e1ba0-941d-48ea-9bbb-db51f5a3ae36}</Project>
+      <Project>{6383a993-d579-4781-9130-8eec1ee4eb54}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>

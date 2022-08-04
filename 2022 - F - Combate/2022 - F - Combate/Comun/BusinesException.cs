@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entidades
+namespace Comun
 {
     public class BusinessException:Exception
     {
@@ -12,7 +12,7 @@ namespace Entidades
         {
 
         }
-        public BusinessException(string message, Exception innerException) : base(message)
+        public BusinessException(string message, Exception InnerException) : base(message)
         {
 
         }

@@ -1,10 +1,12 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Consola.exe.config
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Consola.exe
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Consola.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Comun.dll
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Entidades.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Comun.pdb
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\bin\Debug\Entidades.pdb
-C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
-C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.csproj.CopyComplete
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.exe
 C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate\Consola\obj\Debug\Consola.pdb

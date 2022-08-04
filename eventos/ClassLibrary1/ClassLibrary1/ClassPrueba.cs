@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ClassLibrary1
@@ -15,6 +16,7 @@ namespace ClassLibrary1
         public static event miDelegado1 eventoUno;
         public static event miDelegado2 eventoDos;
         public static event miDelegado3 eventoTres;
+        
 
         public static int valor;
         public static string nombre;
@@ -25,7 +27,7 @@ namespace ClassLibrary1
         static void MetodoX() { nombre = "Coco Cocardi"; }
         static void MetodoZ(int num1, int num2) { valor = num1 + num2; }
         static void MetodoW(string s) { rta = s+"\n-Si, lo juro!"; }
-
+        
         public static void InvocarEventos()
         {
             eventoUno.Invoke(1, 3);

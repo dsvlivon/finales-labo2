@@ -1,0 +1,6 @@
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\bin\Debug\Comun.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\bin\Debug\Comun.pdb
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\obj\Debug\Comun.dll
+C:\Users\L54556\OneDrive - Kimberly-Clark\Desktop\PRACTICA\2022 - F - Combate\2022 - F - Combate 2\2022 - F - Combate 2\Comun\obj\Debug\Comun.pdb

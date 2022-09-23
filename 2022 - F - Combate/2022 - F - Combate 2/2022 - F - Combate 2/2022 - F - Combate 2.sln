@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{CD27EAC4-8B71-4F4B-9156-35E16C4703F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comun", "Comun\Comun.csproj", "{45DF2DF2-933C-4A69-8F9C-8E3E3D9C90D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{160E8976-D9E3-4592-B81D-65C506EB89CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD27EAC4-8B71-4F4B-9156-35E16C4703F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD27EAC4-8B71-4F4B-9156-35E16C4703F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD27EAC4-8B71-4F4B-9156-35E16C4703F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD27EAC4-8B71-4F4B-9156-35E16C4703F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DF2DF2-933C-4A69-8F9C-8E3E3D9C90D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DF2DF2-933C-4A69-8F9C-8E3E3D9C90D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DF2DF2-933C-4A69-8F9C-8E3E3D9C90D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DF2DF2-933C-4A69-8F9C-8E3E3D9C90D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160E8976-D9E3-4592-B81D-65C506EB89CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160E8976-D9E3-4592-B81D-65C506EB89CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160E8976-D9E3-4592-B81D-65C506EB89CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160E8976-D9E3-4592-B81D-65C506EB89CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADDE575-6890-4DEA-B786-8B0233CAE6F3}
+	EndGlobalSection
+EndGlobal

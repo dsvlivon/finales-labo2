@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    public delegate int asdasdasd(int a, int b);
     public delegate void DelegadoProducto();
     public static class Tienda
     {
         private static event DelegadoProducto eventoObtenerDAtos;
+        private static event asdasdasd x;
         static private List<Producto> stock;
         //public static List<Producto> Stock { get; set; }
         public static List<Producto> Stock { get { return stock; } }
-        public static void CargarDatos() { eventoObtenerDAtos?.Invoke(); }//
+
+        public static void CargarDatos() {
+            eventoObtenerDAtos?.Invoke();
+            //x?.Invoke(1, 3);
+        }       
+        
         public static string InfoTienda() {
             return stock.InfoDeLaLista();
         }
@@ -38,8 +45,15 @@ namespace Entidades
             stock = new List<Producto>();
             eventoObtenerDAtos += ObtenerTelevisores;
             eventoObtenerDAtos += ObtenerCelulares;//asignar = agregar = escuchar
+            //x += Metodox;
             //unCelu();
         }
+
+        public static int Metodox(int a, int b)
+        {
+            return a + b;
+        }
+
         private static void unCelu() {
             Celular c = new Celular("C01", 12000, "SONY", 32, false);
             stock.Add(c);

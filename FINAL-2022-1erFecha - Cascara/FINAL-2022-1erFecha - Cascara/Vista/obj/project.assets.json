@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\Vista.csproj",
+      "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\Vista.csproj",
       "packagesPath": "C:\\Users\\L54556\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\obj\\",
+      "outputPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\Vista\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -502,8 +502,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-              "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+            "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+              "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
             }
           }
         }

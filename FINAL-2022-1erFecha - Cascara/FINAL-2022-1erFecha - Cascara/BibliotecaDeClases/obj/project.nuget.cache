@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6KzEfh4hmbiMgWzJdn6pfThKm9/azKCfHlnjchWS4Adpn7SU6GaIRKxtW+cjA1oT6Tz5WaL5J15gYshR1jwdg==",
+  "dgSpecHash": "R1VqKRZlEOSroT+4LvsfZb67P0//a7snOSP+Kqm+HrSNwhuk7gSgIRwqqEWjiHi3aOuAEXnH19Lj+3YQ1Mw6hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+  "projectFilePath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L54556\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\L54556\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

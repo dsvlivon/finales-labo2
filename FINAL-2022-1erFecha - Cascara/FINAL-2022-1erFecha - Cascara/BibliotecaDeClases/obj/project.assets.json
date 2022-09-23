@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+      "projectUniqueName": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
       "projectName": "BibliotecaDeClases",
-      "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+      "projectPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
       "packagesPath": "C:\\Users\\L54556\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\obj\\",
+      "outputPath": "C:\\Users\\L54556\\OneDrive - Kimberly-Clark\\Desktop\\PRACTICA\\FINAL-2022-1erFecha - Cascara\\FINAL-2022-1erFecha - Cascara\\BibliotecaDeClases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
